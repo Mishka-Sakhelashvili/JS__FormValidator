@@ -4,7 +4,7 @@
 <img height="400px" src="https://github.com/Mishka-Sakhelashvili/JS__FormValidator/blob/master/4ychpr.gif"/>
 
 <hr />
-<h1> 👉 <a href="https://mishka-sakhelashvili.github.io/JS__Count/">  View Demo  </a></h1>
+<h1> 👉 <a href="https://mishka-sakhelashvili.github.io/JS__FormValidator/">  View Demo  </a></h1>
 
 <hr />
 <h2><i>Desc: </i></h2>
